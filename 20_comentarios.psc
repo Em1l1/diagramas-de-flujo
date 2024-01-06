@@ -1,0 +1,3 @@
+Algoritmo comentarios
+	Leer lista_de_variables
+FinAlgoritmo
